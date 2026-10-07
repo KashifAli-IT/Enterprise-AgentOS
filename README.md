@@ -10,7 +10,7 @@ RBAC, and observability.
 
 ## Architecture
 
-See [docs/architecture.md](docs/architecture.md).
+See [Architecture.md](Docs/Architecture.md).
 
 ## Development
 
