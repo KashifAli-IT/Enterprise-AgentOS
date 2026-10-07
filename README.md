@@ -1,2 +1,17 @@
-# Enterprise-AgentOS
-A production-oriented AI agent platform that lets users execute multi-step business workflows through controlled tools, MCP servers, memory, approvals and human-in-the-loop execution.
+# Enterprise AgentOS
+
+Production-oriented multi-agent automation platform for executing
+controlled business workflows through tools, MCP, memory, approvals,
+RBAC, and observability.
+
+## Status
+
+🚧 Under active development.
+
+## Architecture
+
+See [docs/architecture.md](docs/architecture.md).
+
+## Development
+
+Development instructions will be added as implementation progresses.
