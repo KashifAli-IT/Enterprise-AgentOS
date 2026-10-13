@@ -1,0 +1,9 @@
+﻿from fastapi import APIRouter
+
+router = APIRouter(tags=["Health"])
+
+
+@router.get("/health")
+async def health_check() -> dict[str, str]:
+    """Report whether the API process is responding."""
+    return {"status": "ok"}

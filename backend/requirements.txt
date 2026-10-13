@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+alembic
+psycopg[binary]
+httpx
+pytest
+pytest-asyncio
+ruff
